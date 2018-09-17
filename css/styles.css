@@ -2,10 +2,26 @@ html {
     color: palegreen
 }
 
+/*
+body {
+    color: blue; 
+    background-color:azure;
+}
+*/
+
+h1{
+    color:green;
+    background-color: antiquewhite
+}
 h2{
     color: gold;
 }
 
 p {
-    color: coral
+    color: coral;
+    background-color: aquamarine
+}
+
+a {
+    color:red;
 }
