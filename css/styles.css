@@ -17,9 +17,22 @@ h2{
     color: gold;
 }
 
+.cis-260 {
+    color:darkorange;
+    background-color: darkkhaki
+}
+
+.test {
+    background-color: khaki;
+}
+
+.class1 {
+    background-color: darkseagreen;
+}
+
 p {
     color: coral;
-    background-color: aquamarine
+    background-color: dodgerblue
 }
 
 a {
