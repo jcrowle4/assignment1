@@ -17,6 +17,10 @@ h2{
     color: gold;
 }
 
+#Head-2 {
+    font-family: monospace;
+}
+
 .cis-260 {
     color:darkorange;
     background-color: darkkhaki
@@ -35,6 +39,14 @@ p {
     background-color: dodgerblue
 }
 
+#Special-Paragraph {
+    color:#0000ff;
+}
+
 a {
     color:red;
+}
+
+body p a {
+    font-family: cursive
 }
